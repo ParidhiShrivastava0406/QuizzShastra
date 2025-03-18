@@ -10,11 +10,11 @@
 ✅ Upload a PDF file 📄  
 ✅ AI-powered content extraction 🤖  
 ✅ Automatically generates quizzes 📝  
-✅ Uses **Gemini AI** for intelligent quiz creation 💡 
-✅ **User Dashboard** to view and manage quizzes 📊 
+✅ Uses **Gemini AI** for intelligent quiz creation 💡  
 ✅ Secure authentication with **NextAuth** 🔐  
 ✅ Beautiful UI with **ShadCN/UI** 🎨  
 ✅ Scalable backend with **Drizzle ORM, PostgreSQL, and Supabase** 🗄️  
+✅ **User Dashboard** to view and manage quizzes 📊    
 
 ---
 
@@ -28,7 +28,7 @@
 ---
 
 ## 🔧 Setup & Installation  
-### 1️⃣ Clone the Repository  
+### 1️⃣ Clone the Repository & Install Dependencies 
 ```bash
 git clone https://github.com/your-username/quizzshastra.git
 cd quizzshastra
