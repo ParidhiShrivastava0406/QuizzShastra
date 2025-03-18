@@ -30,8 +30,8 @@
 ## 🔧 Setup & Installation  
 ### 1️⃣ Clone the Repository & Install Dependencies 
 ```bash
-git clone https://github.com/your-username/quizzshastra.git
-cd quizzshastra
+git clone https://github.com/ParidhiShrivastava0406/QuizzShastra.git
+cd QuizzShastra
 npm install
 ```
 ### 2️⃣ Setup Environment Variables
