@@ -45,5 +45,6 @@ DATABASE_URL=""
 ```
 ### 3️⃣ Run the Development Server
 ```bash
+npx drizzle-kit push:pg
 npm run dev
 ```
